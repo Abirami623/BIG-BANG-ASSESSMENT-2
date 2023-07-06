@@ -1,0 +1,16 @@
+.image{
+min-height: 100vh;
+background-image: url('./images/Bg.jpg');
+background-size: 100%;
+}
+.Text1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkcyan;
+}
+.Text2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkcyan;
+}
+

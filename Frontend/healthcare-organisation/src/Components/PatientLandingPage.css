@@ -1,0 +1,10 @@
+.Doc{
+    background-image: url('./images/doctor.jpg');
+    min-height: 100vh;
+}
+.text1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: large;
+}
